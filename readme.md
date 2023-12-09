@@ -1,4 +1,4 @@
-# Model and Memory-Based collaborative filtering Recommender System 
+# Memory and Model Based collaborative filtering Recommender System 
 
 ### Business Context
 
@@ -50,29 +50,6 @@ This dataset contains transactional records from a UK-based non-store online ret
 1. `output`: Contains the best-fitted model trained for the data, ready for future use.
 2. `lib`: A reference folder containing the original IPython notebook used in the project.
 3. `requirements.txt`: Lists all the required libraries with their respective versions. Install these libraries with `pip install -r requirements.txt`.
-
----
-
-## Key Concepts Explored
-
-1. Collaborative filtering and its types.
-2. Memory-based approach.
-3. User-to-User Collaborative Filtering and its implementation.
-4. Item-to-Item Collaborative Filtering and its implementation.
-5. Cosine similarity.
-6. Model-based approach.
-7. Performing a model-based approach using KNN.
-8. Matrix Factorization.
-9. Model-based approach using Matrix Factorization.
-10. Detailed understanding of the Surprise library.
-11. Different prediction algorithms in the Surprise library.
-12. The Non-negative matrix factorization (NMF) model in the Surprise library.
-13. Implementing Non-negative matrix factorization (NMF).
-14. The Co-Clustering model in the Surprise library.
-15. Implementing the Co-Clustering model.
-16. Evaluating a recommendation system using the Surprise library.
-17. CSR matrix and its significance.
-18. Cross-validation in the context of recommendation systems.
 
 ---
 
